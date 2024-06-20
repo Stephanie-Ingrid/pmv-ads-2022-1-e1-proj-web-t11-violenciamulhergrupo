@@ -1,0 +1,28 @@
+message: Please cite this software using these metadata.
+title: Apoio a Vítimas da Violência Doméstica
+authors:
+  - family-names: Johansson
+    given-names: Derick 
+  - family-names: Marques
+    given-names: Edglei 
+  - family-names: Luiza
+    given-names: Josyane 
+  - family-names: Eliza de Sá
+    given-names: Maria 
+  - family-names: Victor
+    given-names: Pedro
+  - family-names: Silva
+    given-names: Renato
+  - family-names: Ingrid de Oliveira Pinto
+    given-names: Stephanie 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+keywords:
+  - Gestão
+  - Biblioteca
+  - Livros
+repository-code: https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t11-violenciamulhergrupo
+version: 1.0.0
+date-released: 2022-06-26
